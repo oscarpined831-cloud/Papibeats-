@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Papibeats" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0a0a0a</item>
+    </style>
+</resources>
